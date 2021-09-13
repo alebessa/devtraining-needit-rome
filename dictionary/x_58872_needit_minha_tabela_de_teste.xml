@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Minha Tabela de Teste" max_length="40" name="x_58872_needit_minha_tabela_de_teste" type="collection">
+        <element label="New field 2" max_length="40" name="new_field_2" type="integer"/>
+    </element>
+</database>
